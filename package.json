@@ -1,5 +1,5 @@
 {
-  "name": "react-tutorial",
+  "name": "alt-skeleton",
   "version": "1.0.0",
   "description": "React tutorial to go with the blog post",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --inline --history-api-fallback"
   },
+  "homepage": "https://github.com/martinnajle1/alt-skeleton#readme",
   "author": "Stanko",
   "license": "MIT",
   "devDependencies": {
